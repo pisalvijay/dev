@@ -7,6 +7,7 @@ KUMAR VIJAY
 
 changes from mac
 
+changes from ril desktop
 
 
 There are two ways to go directly to a VS Code environment in your browser and start coding:
